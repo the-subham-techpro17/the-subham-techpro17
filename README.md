@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on [CryptoPulse](https://github.com/the-subham-techpro17/CryptoPulse)
 
-- 🤝 I’m looking for help with [CryptoPulse](https://github.com/the-subham-techpro17/CryptoPulse)
-
 - 💬 Ask me about **Full-Stack Developer**
 
 - 📫 How to reach me **subham.techpro17@gmail.com**
