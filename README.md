@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-A5SjYb1mMhB929TVLURS2PN_4PMfQZR/view?usp=sharing](https://drive.google.com/file/d/1-A5SjYb1mMhB929TVLURS2PN_4PMfQZR/view?usp=sharing)
 
-- ⚡ Fun fact **I create youtube videos**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
