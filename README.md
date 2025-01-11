@@ -7,12 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Detection of Cyberbullying](https://github.com/the-subham-techpro17/Detection-of-Cyberbullying)
+- 🔭 I’m currently working on [AutoFixerX](https://github.com/the-subham-techpro17/AutoFixerX)
 
 - 🌱 I’m currently learning **Django, Flask,React.js**
 
-- 👯 I’m looking to collaborate on [CryptoPulse](https://github.com/the-subham-techpro17/CryptoPulse)
-
+- 👯 I’m looking to collaborate on [AutoFixerX](https://github.com/the-subham-techpro17/AutoFixerX)
 - 💬 Ask me about **Full-Stack Developer**
 
 - 📫 How to reach me **subham.techpro17@gmail.com**
