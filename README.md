@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on [AutoFixerX](https://github.com/the-subham-techpro17/AutoFixerX)
 - 💬 Ask me about **Flutter, Mobile App Development, and Software Engineering**
 - 📫 How to reach me **subham.techpro17@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-A5SjYb1mMhB929TVLURS2PN_4PMfQZR/view?usp=sharing)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/the-subham-techpro17/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
