@@ -12,12 +12,7 @@
     <a href="https://www.linkedin.com/in/the-subham-techpro17/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/the_subham17" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/>
-    </a>
-    <a href="https://the-subham-techpro17.github.io" target="_blank">
-      <img src="https://github.com/the-subham-techpro17"/>
-    </a>
+    
   </p>
 </p>
 <!-- ================================================= -->
