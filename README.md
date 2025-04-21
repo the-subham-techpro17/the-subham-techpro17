@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<!-- ==================== HEADER ==================== -->
+<p align="center">
+  <!-- Banner (optional) -->
+  <!-- <img src="https://yourdomain.com/banner.svg" alt="Banner" width="100%" /> -->
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=the-subham-techpro17&label=Profile%20views&color=0e75b6&style=flat" alt="the-subham-techpro17" /> 
+  <!-- Main Title -->
+  # Hi 👋, I’m **Subham Kumar**
+
+  <!-- Professional Tagline -->
+  ### Senior Flutter Engineer | Mobile & Web Apps Specialist
+
+  <!-- Skill Badges -->
+  <p>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square" alt="Flutter"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Python-3670A0?logo=python&style=flat-square" alt="Python"/>
+    </a>
+    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat-square" alt="Django"/>
+    </a>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" alt="Android"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=flat-square" alt="AWS"/>
+    </a>
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" alt="Docker"/>
+    </a>
+  </p>
+
+  <!-- Profile Stats & Trophies -->
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=the-subham-techpro17&style=flat-square&label=Profile Views">
+      <img src="https://komarev.com/ghpvc/?username=the-subham-techpro17&style=flat-square&color=blueviolet" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/the-subham-techpro17?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-subham-techpro17&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+    </a>
+    <a href="https://github-profile-trophy.vercel.app/?username=the-subham-techpro17&theme=onedark&margin-w=15&margin-h=15">
+      <img src="https://github-profile-trophy.vercel.app/?username=the-subham-techpro17&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
+    </a>
+  </p>
+
+  <!-- Social & Contact Badges -->
+  <p>
+    <a href="https://linkedin.com/in/the-subham-techpro17" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/the-subham-techpro17" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/twitter/follow/the-subham-techpro17?label=Follow&style=flat-square" alt="Twitter"/>
+    </a>
+    <a href="mailto:subham.techpro17@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" alt="Email"/>
+    </a>
+  </p>
 </p>
+<!-- ================================================= -->
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=the-subham-techpro17" alt="the-subham-techpro17" />
-  </a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working at [Web Digital Mantra Pvt Ltd](https://github.com/the-subham-techpro17/Web-Digital-Mantra-Pvt-Ltd)
-- 🌱 I’m currently learning **AWS & Flutter**
-- 👯 I’m looking to collaborate on [AutoFixerX](https://github.com/the-subham-techpro17/AutoFixerX)
-- 💬 Ask me about **Flutter, Mobile App Development, and Software Engineering**
-- 📫 How to reach me **subham.techpro17@gmail.com**
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/the-subham-techpro17/)
 
 
 
