@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="wave" width="50"/>  
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="wave" width="50"/>
   <h1>Hi, I’m <strong>Subham Kumar</strong></h1>
   <p><em> Flutter Engineer · Mobile &amp; Web Apps Specialist</em></p>
 
@@ -12,7 +12,9 @@
     <a href="https://www.linkedin.com/in/the-subham-techpro17/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
     </a>
-    
+    <a href="https://instagram.com/the_subham_techpro17" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram"/>
+    </a>
   </p>
 </p>
 <!-- ================================================= -->
