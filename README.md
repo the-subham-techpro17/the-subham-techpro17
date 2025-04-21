@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/>
     </a>
     <a href="https://the-subham-techpro17.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&style=for-the-badge" alt="Portfolio"/>
+      <img src="https://github.com/the-subham-techpro17"/>
     </a>
   </p>
 </p>
