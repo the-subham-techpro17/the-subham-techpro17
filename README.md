@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/the-subham-techpro17" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-subham-techpro17" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/the-subham-techpro17" target="blank">
+  <a href="https://www.instagram.com/thesubhamtechpro17/?next=%2F" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the-subham-techpro17" height="30" width="40" />
   </a>
 </p>
