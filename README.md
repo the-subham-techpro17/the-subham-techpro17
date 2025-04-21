@@ -1,33 +1,30 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="wave" width="50"/>  
+  <h1>Hi, I’m <strong>Subham Kumar</strong></h1>
+  <p><em>Senior Flutter Engineer · Mobile &amp; Web Apps Specialist</em></p>
 
-**👋 Hi, I’m Subham Kumar**  
-*Senior Flutter Engineer · Mobile & Web Apps Specialist*
-
+  <!-- Contact Badges -->
+  <p>
+    <a href="mailto:subham.kumar@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/the-subham-techpro17" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/the_subham17" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/>
+    </a>
+    <a href="https://the-subham-techpro17.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&style=for-the-badge" alt="Portfolio"/>
+    </a>
+  </p>
 </p>
-
-<p align="center">
-  <!-- Core Tech Badges -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=for-the-badge" alt="Dart" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge" alt="Flutter" />
-  </a>
-  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/BLoC-EC407A?logo=bloc&style=for-the-badge" alt="BLoC" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge" alt="AWS" />
-  </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" alt="Docker" />
-  </a>
-</p>
+<!-- ================================================= -->
 
 ---
 
-### 💼 Tech Stack
+## 💼 Tech Stack
 
 | Languages & Frameworks                                                                                                                                    | Mobile Development                                                           | Databases & Services                                                   | Tools & Platforms                                                                                                                        |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
@@ -48,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> **GitHub**<br/>  
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> **Postman**<br/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> **Figma**<br/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> **Firebase**<br/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> **Firebase Console**<br/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> **AWS**<br/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> **Docker**<br/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> **Linux**<br/>  
@@ -56,40 +53,32 @@
 
 ---
 
-### 🧠 Architecture & Performance Optimization
-- Cross‑Platform Development  
-- Caching  
-- Load Balancing  
-- Rate Limiting  
-- Scalability  
-- High Performance  
-
-### 🧩 Methodologies & Design Principles
-- SDLC  
-- Microservices  
-- Agile  
-- RESTful API Design  
-- Test‑Driven Development (TDD)  
-
-### 🧠 Soft Skills
-- Collaboration  
-- Communication  
-- Planning  
-- Teamwork  
-- Time Management  
-- Leadership  
+## 🧠 Architecture & Performance Optimization
+- **Cross‑Platform Development**  
+- **Caching**  
+- **Load Balancing**  
+- **Rate Limiting**  
+- **Scalability**  
+- **High Performance**
 
 ---
 
-### 🧠 Expertise & Methodologies
-
-- **Architecture & Optimization**: Cross‑Platform, Caching, Load Balancing, Rate Limiting, High Performance & Scalability  
-- **Design & Development**: SDLC · Microservices · Agile · RESTful APIs · Test‑Driven Development (TDD)  
-- **Soft Skills**: Team Collaboration · Communication · Time Management · Leadership
+## 🧩 Methodologies & Design Principles
+- **SDLC**  
+- **Microservices**  
+- **Agile**  
+- **RESTful API Design**  
+- **Test‑Driven Development** (TDD)
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Soft Skills
+- **Collaboration** · **Communication** · **Planning**  
+- **Teamwork** · **Time Management** · **Leadership**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-subham-techpro17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
