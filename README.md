@@ -1,24 +1,18 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <!-- Banner (optional) -->
-  <!-- <img src="https://yourdomain.com/banner.svg" alt="Banner" width="100%" /> -->
-
-  <!-- Main Title -->
-  # Hi 👋, I’m **Subham Kumar**
-
-  <!-- Professional Tagline -->
+  # Hi 👋, I’m **Subham Kumar**  
   ### Senior Flutter Engineer | Mobile & Web Apps Specialist
 
   <!-- Skill Badges -->
   <p>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=flat-square" alt="Dart"/>
+    </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square" alt="Flutter"/>
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Python-3670A0?logo=python&style=flat-square" alt="Python"/>
-    </a>
-    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat-square" alt="Django"/>
+    <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/BLoC-EC407A?logo=bloc&style=flat-square" alt="BLoC"/>
     </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" alt="Android"/>
@@ -31,31 +25,8 @@
     </a>
   </p>
 
-  <!-- Profile Stats & Trophies -->
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=the-subham-techpro17&style=flat-square&label=Profile Views">
-      <img src="https://komarev.com/ghpvc/?username=the-subham-techpro17&style=flat-square&color=blueviolet" alt="Profile Views"/>
-    </a>
-    <a href="https://github.com/the-subham-techpro17?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-subham-techpro17&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-    </a>
-    <a href="https://github-profile-trophy.vercel.app/?username=the-subham-techpro17&theme=onedark&margin-w=15&margin-h=15">
-      <img src="https://github-profile-trophy.vercel.app/?username=the-subham-techpro17&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
-    </a>
-  </p>
-
-  <!-- Social & Contact Badges -->
-  <p>
-    <a href="https://linkedin.com/in/the-subham-techpro17" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/the-subham-techpro17" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/twitter/follow/the-subham-techpro17?label=Follow&style=flat-square" alt="Twitter"/>
-    </a>
-    <a href="mailto:subham.techpro17@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" alt="Email"/>
-    </a>
-  </p>
+  <!-- Stats & Contact Badges (unchanged) -->
+  <!-- … -->
 </p>
 <!-- ================================================= -->
 
