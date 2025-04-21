@@ -12,9 +12,7 @@
     <a href="https://www.linkedin.com/in/the-subham-techpro17/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/the_subham_techpro17" target="_blank">
-      <img src="https://www.instagram.com/thesubhamtechpro17/?next=%2F"/>
-    </a>
+   
   </p>
 </p>
 <!-- ================================================= -->
