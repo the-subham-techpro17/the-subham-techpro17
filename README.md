@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="wave" width="50"/>  
   <h1>Hi, I’m <strong>Subham Kumar</strong></h1>
-  <p><em>Senior Flutter Engineer · Mobile &amp; Web Apps Specialist</em></p>
+  <p><em> Flutter Engineer · Mobile &amp; Web Apps Specialist</em></p>
 
   <!-- Contact Badges -->
   <p>
-    <a href="mailto:subham.kumar@example.com">
+    <a href="mailto:subham.techpro17@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/the-subham-techpro17" target="_blank">
+    <a href="https://www.linkedin.com/in/the-subham-techpro17/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/the_subham17" target="_blank">
